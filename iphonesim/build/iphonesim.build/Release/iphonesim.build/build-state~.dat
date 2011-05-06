@@ -1,0 +1,302 @@
+Tiphonesim
+v7
+r0
+t326298355.462974
+cCheck dependencies
+cProcessPCH /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-apywixlcwtaaxodestwpjzmrdgly/iphonesim_Prefix.pch.gch iphonesim_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-bmdujhgvzpjgfnefxpevetdetxfe/iphonesim_Prefix.pch.gch iphonesim_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iPhoneSimulator.o /Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/main.o /Users/mac/iPhone-Ripper-Files/iphonesim/Source/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/nsprintf.o /Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iPhoneSimulator.o /Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iphonesim normal x86_64
+cCompileC build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/main.o /Users/mac/iPhone-Ripper-Files/iphonesim/Source/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/nsprintf.o /Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iphonesim normal i386
+cCreateUniversalBinary /Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim normal "x86_64 i386"
+cGenerateDSYMFile /Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim.dSYM /Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004C23BD2900000000000017ED
+t1277410601
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD5C66A0000000000B3E910
+t1289078378
+s11790608
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.h
+c000000004DC2B35D0000000000000654
+t1304605533
+s1620
+i<Foundation/Foundation.h>
+i<iPhoneSimulatorRemoteClient/iPhoneSimulatorRemoteClient.h>
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.m
+c000000004DC2B35D0000000000001914
+t1304605533
+s6420
+i"iPhoneSimulator.h"
+i"nsprintf.h"
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/Source/main.m
+c000000004DC2B35D0000000000000726
+t1304605533
+s1830
+i<AppKit/AppKit.h>
+i"iPhoneSimulator.h"
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.h
+c000000004DC2B35D000000000000009A
+t1304605533
+s154
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.m
+c000000004DC2B35D000000000000033B
+t1304605533
+s827
+i<Foundation/Foundation.h>
+i<stdio.h>
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim
+t1304605555
+s44220
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim.dSYM
+t1304605555
+s102
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iPhoneSimulator.o
+t1304605555
+s19156
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iphonesim
+t1304605555
+s19644
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iphonesim.LinkFileList
+c000000004DC2B36B0000000000000165
+t1304605547
+s357
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/main.o
+t1304605554
+s6816
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/nsprintf.o
+t1304605555
+s7404
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iPhoneSimulator.o
+t1304605553
+s26236
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iphonesim
+t1304605554
+s16792
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iphonesim.LinkFileList
+c000000004DC2B36B000000000000016B
+t1304605547
+s363
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/main.o
+t1304605553
+s8084
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/nsprintf.o
+t1304605553
+s8644
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/iPhoneSimulatorRemoteClient/iPhoneSimulatorRemoteClient.h
+c000000004DC2B35D0000000000000F22
+t1304605533
+s3874
+i<Cocoa/Cocoa.h>
+
+N/Users/mac/iPhone-Ripper-Files/iphonesim/iphonesim_Prefix.pch
+c000000004DC2B35D00000000000000A0
+t1304605533
+s160
+i<Foundation/Foundation.h>
+
+N/var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-apywixlcwtaaxodestwpjzmrdgly/iphonesim_Prefix.pch.gch
+t1304605552
+s27213648
+
+N/var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-bmdujhgvzpjgfnefxpevetdetxfe/iphonesim_Prefix.pch.gch
+t1304605552
+s28954476
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326298346#326298347#0(0"0(0#1#0"4513608#0"0#
+
+CCompileC build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iPhoneSimulator.o /Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326298353.768544
+e326298355.041485
+r1
+xCompileC
+xbuild/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iPhoneSimulator.o
+x/Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.m326298353#326298355#0(0"0(0#0#65"/Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.m2506957456#1743"    cd /Users/mac/iPhone-Ripper-Files/iphonesim    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-generated-files.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-own-target-headers.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-all-target-headers.hmap -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-project-headers.hmap -F/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/include -I. -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources/i386 -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources -include /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-bmdujhgvzpjgfnefxpevetdetxfe/iphonesim_Prefix.pch -c /Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.m -o /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iPhoneSimulator.o0#
+
+CCompileC build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/main.o /Users/mac/iPhone-Ripper-Files/iphonesim/Source/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326298354.042141
+e326298354.951810
+r1
+xCompileC
+xbuild/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/main.o
+x/Users/mac/iPhone-Ripper-Files/iphonesim/Source/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/mac/iPhone-Ripper-Files/iphonesim/Source/main.m326298354#326298354#0(0"0(0#0#54"/Users/mac/iPhone-Ripper-Files/iphonesim/Source/main.m2506957456#1721"    cd /Users/mac/iPhone-Ripper-Files/iphonesim    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-generated-files.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-own-target-headers.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-all-target-headers.hmap -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-project-headers.hmap -F/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/include -I. -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources/i386 -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources -include /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-bmdujhgvzpjgfnefxpevetdetxfe/iphonesim_Prefix.pch -c /Users/mac/iPhone-Ripper-Files/iphonesim/Source/main.m -o /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/main.o0#
+
+CCompileC build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/nsprintf.o /Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326298354.952235
+e326298355.267861
+r1
+xCompileC
+xbuild/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/nsprintf.o
+x/Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.m326298354#326298355#0(0"0(0#0#58"/Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.m2506957456#1729"    cd /Users/mac/iPhone-Ripper-Files/iphonesim    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-generated-files.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-own-target-headers.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-all-target-headers.hmap -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-project-headers.hmap -F/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/include -I. -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources/i386 -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources -include /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-bmdujhgvzpjgfnefxpevetdetxfe/iphonesim_Prefix.pch -c /Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.m -o /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/nsprintf.o0#
+
+CCompileC build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iPhoneSimulator.o /Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s326298352.571825
+e326298353.768225
+r1
+xCompileC
+xbuild/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iPhoneSimulator.o
+x/Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.m326298352#326298353#0(0"0(0#0#65"/Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.m4513608#1749"    cd /Users/mac/iPhone-Ripper-Files/iphonesim    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-generated-files.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-own-target-headers.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-all-target-headers.hmap -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-project-headers.hmap -F/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/include -I. -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources/x86_64 -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources -include /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-apywixlcwtaaxodestwpjzmrdgly/iphonesim_Prefix.pch -c /Users/mac/iPhone-Ripper-Files/iphonesim/Source/iPhoneSimulator.m -o /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iPhoneSimulator.o0#
+
+CCompileC build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/main.o /Users/mac/iPhone-Ripper-Files/iphonesim/Source/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s326298352.575211
+e326298353.471317
+r1
+xCompileC
+xbuild/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/main.o
+x/Users/mac/iPhone-Ripper-Files/iphonesim/Source/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/mac/iPhone-Ripper-Files/iphonesim/Source/main.m326298352#326298353#0(0"0(0#0#54"/Users/mac/iPhone-Ripper-Files/iphonesim/Source/main.m4513608#1727"    cd /Users/mac/iPhone-Ripper-Files/iphonesim    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-generated-files.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-own-target-headers.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-all-target-headers.hmap -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-project-headers.hmap -F/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/include -I. -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources/x86_64 -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources -include /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-apywixlcwtaaxodestwpjzmrdgly/iphonesim_Prefix.pch -c /Users/mac/iPhone-Ripper-Files/iphonesim/Source/main.m -o /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/nsprintf.o /Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s326298353.474914
+e326298353.836904
+r1
+xCompileC
+xbuild/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/nsprintf.o
+x/Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.m326298353#326298353#0(0"0(0#0#58"/Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.m2506957456#1735"    cd /Users/mac/iPhone-Ripper-Files/iphonesim    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-generated-files.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-own-target-headers.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-all-target-headers.hmap -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-project-headers.hmap -F/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/include -I. -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources/x86_64 -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources -include /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-apywixlcwtaaxodestwpjzmrdgly/iphonesim_Prefix.pch -c /Users/mac/iPhone-Ripper-Files/iphonesim/Source/nsprintf.m -o /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/nsprintf.o0#
+
+CCreateUniversalBinary /Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim normal "x86_64 i386"
+s326298355.404808
+e326298355.417480
+r1
+xCreateUniversalBinary
+x/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim
+xnormal
+xx86_64 i386
+lSLF07#2@66"CreateUniversalBinary build/Release/iphonesim normal "x86_64 i386"326298355#326298355#0(0"0(0#0#52"/Users/mac/iPhone-Ripper-Files/iphonesim/x86_64 i3862506957456#383"    cd /Users/mac/iPhone-Ripper-Files/iphonesim    /usr/bin/lipo -create /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iphonesim /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iphonesim -output /Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim0#
+
+CGenerateDSYMFile /Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim.dSYM /Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim
+s326298355.418186
+e326298355.462786
+r1
+xGenerateDSYMFile
+x/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim.dSYM
+x/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim
+lSLF07#2@69"GenerateDSYMFile build/Release/iphonesim.dSYM build/Release/iphonesim326298355#326298355#0(0"0(0#0#64"/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim2506957456#218"    cd /Users/mac/iPhone-Ripper-Files/iphonesim    /Developer/usr/bin/dsymutil /Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim -o /Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/iphonesim.dSYM0#
+
+CLd /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iphonesim normal i386
+s326298355.268215
+e326298355.403904
+r1
+xLd
+x/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iphonesim
+xnormal
+xi386
+old: warning: directory '/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release' following -L not found
+old: warning: directory '/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release' following -F not found
+lSLF07#2@121"Link /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iphonesim326298355#326298355#0(206"ld: warning: directory '/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release' following -L not foundld: warning: directory '/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release' following -F not found2(22@89"Directory '/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release' following -L not found326298355#0#103#0(6@0"326298355#0#0#0#0#0"0(22@89"Directory '/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release' following -F not found326298355#103#103#0(6@0"326298355#0#0#0#0#0"0(0#0#0"2506957456#1000"    cd /Users/mac/iPhone-Ripper-Files/iphonesim    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release -F/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -filelist /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iphonesim.LinkFileList -mmacosx-version-min=10.6 -framework AppKit -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -framework iPhoneSimulatorRemoteClient -Wl,-rpath -Wl,/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -framework Foundation -o /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/i386/iphonesim0#
+
+CLd /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iphonesim normal x86_64
+s326298353.837323
+e326298354.040952
+r1
+xLd
+x/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iphonesim
+xnormal
+xx86_64
+old: warning: directory '/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release' following -L not found
+old: warning: directory '/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release' following -F not found
+lSLF07#2@123"Link /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iphonesim326298353#326298354#0(206"ld: warning: directory '/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release' following -L not foundld: warning: directory '/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release' following -F not found2(22@89"Directory '/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release' following -L not found326298354#0#103#0(6@0"326298354#0#0#0#0#0"0(22@89"Directory '/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release' following -F not found326298354#103#103#0(6@0"326298354#0#0#0#0#0"0(0#0#0"2506957456#1006"    cd /Users/mac/iPhone-Ripper-Files/iphonesim    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release -F/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -filelist /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iphonesim.LinkFileList -mmacosx-version-min=10.6 -framework AppKit -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -framework iPhoneSimulatorRemoteClient -Wl,-rpath -Wl,/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -framework Foundation -o /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/Objects-normal/x86_64/iphonesim0#
+
+CProcessPCH /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-apywixlcwtaaxodestwpjzmrdgly/iphonesim_Prefix.pch.gch iphonesim_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s326298347.065506
+e326298352.324149
+r1
+xProcessPCH
+x/var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-apywixlcwtaaxodestwpjzmrdgly/iphonesim_Prefix.pch.gch
+xiphonesim_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile iphonesim_Prefix.pch326298347#326298352#0(0"0(0#0#61"/Users/mac/iPhone-Ripper-Files/iphonesim/iphonesim_Prefix.pch4513608#1620"    cd /Users/mac/iPhone-Ripper-Files/iphonesim    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-generated-files.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-own-target-headers.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-all-target-headers.hmap -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-project-headers.hmap -F/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/include -I. -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources/x86_64 -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources -c /Users/mac/iPhone-Ripper-Files/iphonesim/iphonesim_Prefix.pch -o /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-apywixlcwtaaxodestwpjzmrdgly/iphonesim_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-bmdujhgvzpjgfnefxpevetdetxfe/iphonesim_Prefix.pch.gch iphonesim_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326298347.081542
+e326298352.570976
+r1
+xProcessPCH
+x/var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-bmdujhgvzpjgfnefxpevetdetxfe/iphonesim_Prefix.pch.gch
+xiphonesim_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile iphonesim_Prefix.pch326298347#326298352#0(0"0(0#0#61"/Users/mac/iPhone-Ripper-Files/iphonesim/iphonesim_Prefix.pch2506957456#1616"    cd /Users/mac/iPhone-Ripper-Files/iphonesim    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-generated-files.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-own-target-headers.hmap -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-all-target-headers.hmap -iquote /Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/iphonesim-project-headers.hmap -F/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/PrivateFrameworks -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/Release/include -I. -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources/i386 -I/Users/mac/iPhone-Ripper-Files/iphonesim/build/iphonesim.build/Release/iphonesim.build/DerivedSources -c /Users/mac/iPhone-Ripper-Files/iphonesim/iphonesim_Prefix.pch -o /var/folders/7u/7uJ+y36XGnyfZ9WQYgmDFk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iphonesim_Prefix-bmdujhgvzpjgfnefxpevetdetxfe/iphonesim_Prefix.pch.gch0#
+
