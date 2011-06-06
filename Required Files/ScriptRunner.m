@@ -17,7 +17,6 @@
 #import "UIView+FullDescription.h"
 #import "XPathQuery.h"
 #import "TouchSynthesis.h"
-#import "ThreeViewNavAppDelegate.h"
 
 const float SCRIPT_RUNNER_INTER_COMMAND_DELAY = 2.0;
 
@@ -202,6 +201,21 @@ const float SCRIPT_RUNNER_INTER_COMMAND_DELAY = 2.0;
 		}
 	}
 	
+	
+	NSArray *imgButtons = [self viewsForXPath:@"//dict[key[.='className' and following-sibling::string[1]/.='UIImageView']]"];
+	for (UIView *e in imgButtons) {
+		if (![stack containsObject:e] && ![clicked containsObject:e]) {
+			[stack addObject:e];
+		}
+	}
+	
+	NSArray *butButtons = [self viewsForXPath:@"//dict[key[.='className' and following-sibling::string[1]/.='UIButton']]"];
+	for (UIView *e in butButtons) {
+		if (![stack containsObject:e] && ![clicked containsObject:e]) {
+			[stack addObject:e];
+		}
+	}
+	
 	NSLog(@"Leaving function");
 	NSLog([stack description]);
 }
@@ -215,7 +229,7 @@ const float SCRIPT_RUNNER_INTER_COMMAND_DELAY = 2.0;
 {
 	static int counter = 0;
 	NSDictionary *keyWindowDescription = [[[UIApplication sharedApplication] keyWindow] fullDescription];
-	NSString *path1 = @"/Users/ed/Desktop/Structures";
+	NSString *path1 = @"/Users/mac/Desktop/Structures/state";
 	NSString *version = [NSString stringWithFormat:@"%d",counter];
 	NSString *path = [path1 stringByAppendingString:version];
 	[keyWindowDescription writeToFile:path atomically:YES];
