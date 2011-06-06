@@ -216,6 +216,9 @@ const float SCRIPT_RUNNER_INTER_COMMAND_DELAY = 2.0;
 		}
 	}
 	
+	
+	
+	
 	NSLog(@"Leaving function");
 	NSLog([stack description]);
 }
