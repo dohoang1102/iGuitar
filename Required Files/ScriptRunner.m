@@ -189,7 +189,7 @@ const float SCRIPT_RUNNER_INTER_COMMAND_DELAY = 2.0;
 	
 	NSArray *navButtons = [self viewsForXPath:@"//dict[key[.='className' and following-sibling::string[1]/.='UINavigationItemButtonView']]"];
 	for (UIView *e in navButtons) {
-		if (![stack containsObject:e] && ![clicked containsObject:e]) {
+		if (![stack containsObject:e] ) {
 			[stack addObject:e];
 		}
 	}	
@@ -202,8 +202,8 @@ const float SCRIPT_RUNNER_INTER_COMMAND_DELAY = 2.0;
 	}
 	
 	
-	NSArray *imgButtons = [self viewsForXPath:@"//dict[key[.='className' and following-sibling::string[1]/.='UIImageView']]"];
-	for (UIView *e in imgButtons) {
+	NSArray *nav2Buttons = [self viewsForXPath:@"//dict[key[.='className' and following-sibling::string[1]/.='UINavigationButton']]"];
+	for (UIView *e in nav2Buttons) {
 		if (![stack containsObject:e] && ![clicked containsObject:e]) {
 			[stack addObject:e];
 		}
@@ -217,7 +217,20 @@ const float SCRIPT_RUNNER_INTER_COMMAND_DELAY = 2.0;
 	}
 	
 	
+	NSArray *segButtons = [self viewsForXPath:@"//dict[key[.='className' and following-sibling::string[1]/.='UISegment']]"];
+	for (UIView *e in segButtons) {
+		if (![stack containsObject:e] && ![clicked containsObject:e]) {
+			[stack addObject:e];
+		}
+	}
 	
+	
+	NSArray *ThreeButtons = [self viewsForXPath:@"//dict[key[.='className' and following-sibling::string[1]/.='UIThreePartButton']]"];
+	for (UIView *e in ThreeButtons) {
+		if (![stack containsObject:e] && ![clicked containsObject:e]) {
+			[stack addObject:e];
+		}
+	}
 	
 	NSLog(@"Leaving function");
 	NSLog([stack description]);
@@ -245,8 +258,9 @@ const float SCRIPT_RUNNER_INTER_COMMAND_DELAY = 2.0;
 	if (![g_stack count] == 0) {
 		[self performSelector:@selector(clickButtons) withObject:nil afterDelay:SCRIPT_RUNNER_INTER_COMMAND_DELAY];
 	}else {
-		[self snapshot:g_stack];
-		exit(0);
+		[self performSelector:@selector(clickButtons) withObject:nil afterDelay:SCRIPT_RUNNER_INTER_COMMAND_DELAY];
+		//[self snapshot:g_stack];
+		//exit(0);
 	}
 }
 
